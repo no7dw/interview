@@ -30,4 +30,4 @@ FAQ：
  - 我做不完怎么办？没关系请尽量按点顺序完成。
  
 
-  [1]: www.kaolalicai.cn
+  [1]: http://www.kaolalicai.cn
