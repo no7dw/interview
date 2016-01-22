@@ -26,13 +26,19 @@
 
 2.创建两个activity A和B，A中有个按钮和一个输入框，B中有个按钮和一个输入框，点击A中按钮进入B并且在B的输入框中显示A中输入框的内容，点击B中的按钮返回A并且在并且在A的输入框中显示B中输入框的内容。
 
-   
-<font color=red>注意</font>:
+
+------   
+##前端机试题：
+
+[https://github.com/navyxie/web-frontend-interview](https://github.com/navyxie/web-frontend-interview)
+
+------   
+#注意:
    请不要轻视这题目，完成得高质量，绝对不容易。
    **email 标题请以“考拉理财后端机试+姓名+电话”**
 
 ------
-FAQ：
+#FAQ：
 
  - 如何提交代码？请注意**注明你们的姓名、联系电话后**，以下几种选一种：
      - 把写好的代码文件，email 到 下面邮箱 
@@ -50,7 +56,7 @@ FAQ：
 
 
 
-前端机试题：[https://github.com/navyxie/web-frontend-interview](https://github.com/navyxie/web-frontend-interview)
+
 
 
 
