@@ -37,13 +37,13 @@
 
 
 ------   
-##前端机试题：
+## 前端机试题：
 
 [https://github.com/navyxie/web-frontend-interview](https://github.com/navyxie/web-frontend-interview)
 
 ------   
 
-#FAQ：
+# FAQ：
 
  - 如何提交代码？请注意**注明你们的姓名、联系电话后**，以下几种选一种：
      - 把写好的代码文件，email 到 下面邮箱 
